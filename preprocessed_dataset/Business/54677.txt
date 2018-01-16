@@ -1,0 +1,24 @@
+
+
+
+ -----Original Message-----
+From: 	Lu, Zimin  
+Sent:	Tuesday, July 03, 2001 12:06 PM
+To:	Kaminski, Vince J; Krishnarao, Pinnamaneni; Kohli, Sandeep; Tamarchenko, Tanya; Roberts, Mike A.
+Cc:	Huang, Alex; Halliburton, Tom
+Subject:	Weather triggered options pricing
+
+
+Dear all,
+
+We have developed analytical soulutions for weather-triggered commodity options.
+We have also programmed those formulas into user-friendly Excel functions.
+
+The original request came from the weather derivatives structuring desk, but the
+model can be used in other situations --- generically it is a double trigger option deal.
+
+See the documentation for more details.
+
+Zimin
+
+ 

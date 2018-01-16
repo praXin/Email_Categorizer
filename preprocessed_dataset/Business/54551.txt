@@ -1,0 +1,30 @@
+
+
+
+ -----Original Message-----
+From: 	Mack, Iris  
+Sent:	Sunday, June 10, 2001 1:50 PM
+To:	Dhar, Amitava; Frantzeskakis, Kyriakos
+Cc:	Shanbhogue, Vasant; Kaminski, Vince J; Tamarchenko, Tanya
+Subject:	FW:  StatSoft
+
+
+
+	FYI, the following website describes a variety of econometrics methods - which we plan to implement to solve the private firm problem.  
+
+	Many of these methods were briefly described in the recent draft of the Duffie document.  
+
+	Kyriakos will be writing a paper which will describe these methods in more detail.
+
+
+
+
+			http://www.statsoft.com/textbook/STATHOME.html.
+
+
+
+	
+
+
+
+  

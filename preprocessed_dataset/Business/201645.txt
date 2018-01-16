@@ -1,0 +1,21 @@
+
+In our July 30, 2001 document entitled "Receipt Capacity Allocation Proposal
+Prepared By Salt River Project" there is an inadvertent error.  Section I.F.
+properly states that the numbers used in this proposal would be updated with
+peak figures through the last season prior to additional capacity being
+placed into service by El Paso.  Consistent with that, Section II.A., in
+describing the CD and FR Entitlement Methodology, should read as follows:
+
+II.A.	A total "peak day entitlement" is established for each FR customer
+by summing its highest (peak) 	single day takes during the period January
+1, 1997 through the end of the last season prior to 	additional capacity
+being placed into service by El Paso, at each of its D-Code points (eg.
+DAPSPHX, DSWGPHX, etc.).  (footnotes 1 and 2 unchanged)
+
+Please make this change to your document.  We apologize for the error.  Joel
+Greene
+
+Energy Advocates LLP
+202-371-9889
+202-371-9025 (fax)
+jlgreene@energyadvocates.com
