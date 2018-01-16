@@ -4,8 +4,7 @@ This project was made to categorize our emails. It categorizes your emails into 
 and "Purely Personal". These categories were chosen as basic categories of email by the UCB. The dataset used to train
 the program is the 'Enron' email dataset, thanks to UCB. We used Naive Baye's, Logistic Regression, Linear SVM and Multinomial
 Naive Baye's classifiers to train the program and classify the emails. The program takes into account only the body of
-the emails to classify them and none other parameters such as subject, sender, date etc. Run the main_program.py to start
-the program. The program isn't complete yet and minor adjustments are to be done. Finally one last con, the program will
+the emails to classify them and none other parameters such as subject, sender, date etc. First train the program using mp_cat_before_pickle.py and run the main_program.py to start the program. The program isn't complete yet, some preprocessing is yet to be done after reading the dataset in the program and, improvements have to be done on the classifiers by making use of all the parameters of different classifiers and not just the default parameters and maybe trying out new ones . Finally one last con, the program will
 not work for emails in the MIME format but will only work for emails which have pure text in the body.
 
 ## Getting Started:
