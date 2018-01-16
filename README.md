@@ -20,7 +20,7 @@ What things you need to run the program.
 
 ## Authors:
 Koyalkar Pravin Kishore - pravinkishore[One][Nine][Nine][Seven]Atgmail.com <br />
-Chandrahas Reddy Mandapati - chandur626[Six][Two][Six]Atgmail.com
+Chandrahas Reddy Mandapati - chandur[Six][Two][Six]Atgmail.com
 
 ## Acknowledgments
 * University of California, Berkeley (UCB) for its Enron Emails Dataset.
