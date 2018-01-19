@@ -22,6 +22,6 @@ What things you need to run the program.
 Koyalkar Pravin Kishore - pravinkishore[One][Nine][Nine][Seven]Atgmail.com <br />
 Chandrahas Reddy Mandapati - chandur[Six][Two][Six]Atgmail.com
 
-## Acknowledgments
+## Acknowledgments (Thanks to)
 * University of California, Berkeley (UCB) for its Enron Emails Dataset.
 * Harrison Kinsley for his tutorial on nltk - [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
