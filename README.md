@@ -18,9 +18,9 @@ What things you need to run the program.
 ## Built With:
 * Anaconda 3 (Python 3.6)
 
-## Authors:
+## Author:
 Koyalkar Pravin Kishore - pravinkishore[One][Nine][Nine][Seven]Atgmail.com <br />
-Chandrahas Reddy Mandapati - chandur[Six][Two][Six]Atgmail.com
+<!--- Chandrahas Reddy Mandapati - chandur[Six][Two][Six]Atgmail.com -->
 
 ## Acknowledgments (Thanks to)
 * University of California, Berkeley (UCB) for its Enron Emails Dataset.
